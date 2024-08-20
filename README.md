@@ -1,7 +1,7 @@
 # FlexibleCalculator
 New operators can be added directly to Operation enum. The actual calculation delegated 
 to OperationStrategy. This way for future modifications Calculator class remains unchanged.
-* Chaining Functionality : see Calculator.chainCalculate
+* Chaining Functionality : see Calculator.chainCalculateda
 
 Example: 
 * Add additional operators in Calculator.java
